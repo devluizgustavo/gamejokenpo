@@ -46,16 +46,7 @@
 
 <hr>
 
-
-
-
-
-
-
-
-
-
-
+<p>O projeto por mais que seja simples, foi algo muito importante para o meu desenvolvimento, principalmente em JavaScript. Fique a vontede para olhar o código, fiz ele da maneira mais limpa possível. Agradeço por chegar até aqui</p>
 
 ![Design sem nome (3)](https://github.com/devluizgustavo/gamejokenpo/assets/142704849/b0efcf8a-01b5-4acf-8877-a57f005b0bff)
 
