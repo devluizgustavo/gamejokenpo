@@ -37,7 +37,7 @@ function iniciaJogo() {
         removerBotões('.pedra');
         removerBotões('.papel');
         removerBotões('.tesoura');
-        const rodada = logicaJogo(op[1], randomCPU())
+        const rodada = logicaJogo(op[2], randomCPU())
 
         if (rodada) {
             player.innerHTML++;
@@ -78,7 +78,7 @@ function iniciaJogo() {
         removerBotões('.pedra');
         removerBotões('.papel');
         removerBotões('.tesoura');
-        const rodada = logicaJogo(op[1], randomCPU());
+        const rodada = logicaJogo(op[0], randomCPU());
 
         if (rodada) {
             player.innerHTML++;
