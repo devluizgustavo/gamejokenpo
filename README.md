@@ -2,6 +2,8 @@
 
 <p align="center">Nesse projeto elaborei o famoso jogo de Jokenpô, onde o usuário tem a possibilidade de ganhar através da sorte. Utilizei tecnologias como JavaScript, HTML e CSS para elaborar tanto o <b>FRONT-END</b> quanto o <b>BACK-END. Abaixo estão as etapas de cada parte do jogo.</b></p>
 
+## Acessar o Jogo: [Clique aqui para jogar](https://devluizgustavo.github.io/gamejokenpo/)
+
 <h2>1-Interface inicial</h2>
 <p>O usuário terá que escolher entre "Pedra", "Papel" ou "Tesoura" através dos botões que iram aparecer na interface. A partir da captura da escolha do usuário, a CPU irá aleatóriamente escolher uma das opções também.</p>
 
