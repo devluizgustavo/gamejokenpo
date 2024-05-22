@@ -1,6 +1,6 @@
 <h1 align="center">🔴 Jo-Ken-Pô</h1>
 
-<p align="center">Nesse projeto elaborei o famoso jogo de Jokenpô, onde o usuário tem a possibilidade de ganhar através da sorte. Utilizei tecnologias como JavaScript, HTML e CSS para elaborar tanto o <b>FRONT-END</b> quanto o <b>BACK-END. Abaixo estão as etapas de cada parte do jogo.</b></p>
+<p align="center">Nesse projeto elaborei o famoso jogo de Jokenpô, onde o usuário tem a possibilidade de ganhar através da sorte. Utilizei tecnologias como JavaScript, HTML e CSS para elaborar todo o <b>FRONT-END</b>. Abaixo estão as etapas de cada parte do jogo.</b></p>
 
 ## Acessar o Jogo: [Clique aqui para jogar](https://devluizgustavo.github.io/gamejokenpo/)
 
