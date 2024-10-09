@@ -1,0 +1,162 @@
+    @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+    @import url('https://fonts.cdnfonts.com/css/xmarker');
+    :root {
+    --primary-color: rgb(172, 50, 29);
+    
+    }
+
+    * {
+        box-sizing: border-box;
+        outline: 0;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-image: linear-gradient(to right, #8a0000, #b82315, #e6462a);
+    }
+
+    .container {
+        font-family: 'Montserrat', cursive;
+        max-width: 640px;
+        margin: 50px auto;
+        background-color: rgba(255, 255, 255, 0.233);
+        box-shadow: rgb(100, 7, 7) 1px 1px 10px;
+        padding: 15px;
+        border-radius: 20px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+    }
+
+    .pont {
+        display:  inline-block;
+        margin: 0 100px;
+    }
+
+    .btn {
+        border: none;
+        background:rgba(255, 255, 255, 0);   
+        color: rgb(255, 255, 255);    
+        padding: 10px;  
+        border-radius: 7px;
+        font-weight: 700;
+        cursor: pointer;
+        font-size: 18px;
+        height: 50px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+        width: 200px;
+        border: solid rgb(255, 255, 255) 2px;
+        font-family: sans-serif;
+    }
+
+    .btn:hover {
+        color: #ffffff;  
+        transition: ease-in-out 500ms;
+        width: 400px;
+    }
+
+    .cpu, .jogador {
+        border: solid #fff 2px;
+        border-radius: 10px;
+        padding: 10px;
+        margin-top: 15px;
+    }
+
+    .placJog, .placCpu {
+        display: inline-block;
+        height: 90px;
+        width: 15%;
+        background-color: #b82315;
+        border-radius:20px;
+        font-family: 'orbitron';
+        box-shadow: inset rgb(0, 0, 0) 0px 0px 8px;
+        font-size: 50px;
+        padding-top: 12px;
+        margin: 10px 99px 15px 102px;
+    }  
+    
+    .text {
+        margin-top: 35px;
+    }
+
+    .pedra, .papel, .tesoura {
+        font-family: 'xmarker';
+        border: none;
+        background:rgba(255, 255, 255, 0);   
+        color: rgb(255, 255, 255);    
+        padding: 10px;  
+        border-radius: 15px;
+        font-weight: 350;
+        cursor: pointer;
+        font-size: 18px;
+        height: 50px;
+        margin: 0px 10px 0px 10px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+        width: 150px;
+        border: solid rgb(255, 255, 255) 2px;
+    }
+    .tesoura:hover {
+        border: solid 2px;
+        color: #4b0a0a;  
+        transition: ease-in-out 500ms;
+    }
+    .pedra:hover {
+        border: solid 2px;
+        color: #4b0a0a;  
+        transition: ease-in-out 500ms;
+    } 
+    .papel:hover {
+        border: solid 2px;
+        color: #4b0a0a;  
+        transition: ease-in-out 500ms;
+    }
+
+    .continuar, .parar, .reiniciar {
+        border: none;
+        background:rgba(255, 255, 255, 0);   
+        color: rgba(255, 255, 255, 0.808);    
+        padding: 10px;  
+        border-radius: 110px;
+        font-weight: 700;
+        cursor: pointer;
+        font-size: 18px;
+        height: 110px;
+        margin: 25px 40px 25px 40px;
+        width: 110px;
+        border: solid rgb(255, 255, 255) 2px;
+        font-family: sans-serif;
+    }
+
+    .continuar:hover {
+        border-radius: 10px;
+        height: 100px;
+        border: solid 3px;
+        color: white;
+        width: 20%;
+        transition:ease-in-out 600ms;       
+    }
+
+    .parar:hover {
+        border-radius: 10px;
+        height: 100px;
+        color: white;
+        border: solid 3px;
+        width: 20%;
+        transition:ease-in-out 600ms;  
+    }
+
+    .reiniciar:hover {
+        border-radius: 10px;
+        height: 75px;
+        color: white;
+        border: solid 3px;
+        width: 50%;
+        transition:ease-in-out 600ms;  
+    }
+
+    
+
+
